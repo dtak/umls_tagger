@@ -41,7 +41,7 @@ would result in the extracted tags:
 
 The character trie is created from several data files containing CUI codes, their preferred names, and respective categories.  The exact codes to be included in the trie is filtered by the categories of CUI codes to keep which are stored in **data/categories.txt**.  Exclusion of certain categories allows more pertinent medical terms to be captured. In addition, CUI codes to furthur exclude are stored in **data/stopcuis.txt**.  These codes are ones that have preferred terms that may be noisy (C0080151: said, C0021223: in).
 
-To see the tagger in action, run
+To see the tagger in action, unzip **data/mrsty.csv.zip** and run
 
 ```
 python umls_tag.py -input data/sample_input.txt -output data/sample_output.txt
