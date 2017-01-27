@@ -1,0 +1,34 @@
+Congenital Abnormality
+Acquired Abnormality
+Injury or Poisoning
+Body Substance
+Pathologic Function
+Disease or Syndrome
+Diagnostic Procedure
+Natural Phenomenon or Process
+Mental or Behavioral Dysfunction
+Cell or Molecular Dysfunction
+Therapeutic or Preventive Procedure
+Experimental Model of Disease
+Anatomical Abnormality
+Medical Device
+Neoplastic Process
+Sign or Symptom
+Laboratory or Test Result
+Biomedical Occupation or Discipline
+Family Group
+Daily or Recreational Activity
+Educational Activity
+Manufactured Object
+Finding
+Food
+Physiologic Function
+Pathologic Function
+Social Behavior
+Element
+Pharmacologic Substance
+Steroid
+Hormone
+Body Location or Region
+Body Part
+Individual Behavior

@@ -1,0 +1,578 @@
+[
+    [
+        {
+            "pref_name": "medical history",
+            "cui": "C0262926",
+            "count": 1
+        },
+        {
+            "pref_name": "cholesterol",
+            "cui": "C0008377",
+            "count": 1
+        },
+        {
+            "pref_name": "premier",
+            "cui": "C0309847",
+            "count": 1
+        },
+        {
+            "pref_name": "myocardial infarction",
+            "cui": "C0027051",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "vessels",
+            "cui": "C0005847",
+            "count": 1
+        },
+        {
+            "pref_name": "clot",
+            "cui": "C0302148",
+            "count": 1
+        },
+        {
+            "pref_name": "catheterization",
+            "cui": "C0007430",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "disease",
+            "cui": "C0012634",
+            "count": 1
+        },
+        {
+            "pref_name": "history",
+            "cui": "C0262926",
+            "count": 1
+        },
+        {
+            "pref_name": "coumadin",
+            "cui": "C0699129",
+            "count": 1
+        },
+        {
+            "pref_name": "spasm",
+            "cui": "C0037763",
+            "count": 1
+        },
+        {
+            "pref_name": "shortness of breath",
+            "cui": "C0013404",
+            "count": 1
+        },
+        {
+            "pref_name": "pain",
+            "cui": "C0030193",
+            "count": 1
+        },
+        {
+            "pref_name": "track",
+            "cui": "C0040594",
+            "count": 1
+        },
+        {
+            "pref_name": "calcium",
+            "cui": "C0006675",
+            "count": 1
+        },
+        {
+            "pref_name": "chest",
+            "cui": "C0817096",
+            "count": 1
+        },
+        {
+            "pref_name": "peptic ulcer",
+            "cui": "C0030920",
+            "count": 1
+        },
+        {
+            "pref_name": "channel blocker",
+            "cui": "C0870261",
+            "count": 1
+        },
+        {
+            "pref_name": "stress",
+            "cui": "C0038435",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "hernia",
+            "cui": "C0019270",
+            "count": 1
+        },
+        {
+            "pref_name": "surgery",
+            "cui": "C0543467",
+            "count": 1
+        },
+        {
+            "pref_name": "bleeding",
+            "cui": "C0019080",
+            "count": 1
+        },
+        {
+            "pref_name": "cyst",
+            "cui": "C0010709",
+            "count": 1
+        },
+        {
+            "pref_name": "right knee",
+            "cui": "C0230431",
+            "count": 1
+        },
+        {
+            "pref_name": "treated",
+            "cui": "C0332293",
+            "count": 1
+        },
+        {
+            "pref_name": "h2 blockers",
+            "cui": "C0019593",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "right buttock",
+            "cui": "C1178870",
+            "count": 1
+        },
+        {
+            "pref_name": "walking",
+            "cui": "C0080331",
+            "count": 1
+        },
+        {
+            "pref_name": "legs",
+            "cui": "C1140621",
+            "count": 1
+        },
+        {
+            "pref_name": "history",
+            "cui": "C0262926",
+            "count": 1
+        },
+        {
+            "pref_name": "pain",
+            "cui": "C0030193",
+            "count": 1
+        },
+        {
+            "pref_name": "stretches",
+            "cui": "C0270814",
+            "count": 1
+        },
+        {
+            "pref_name": "syndrome",
+            "cui": "C0039082",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "buttock",
+            "cui": "C0006497",
+            "count": 1
+        },
+        {
+            "pref_name": "pain",
+            "cui": "C0030193",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "capoten",
+            "cui": "C0591224",
+            "count": 1
+        },
+        {
+            "pref_name": "readings",
+            "cui": "C0034754",
+            "count": 1
+        },
+        {
+            "pref_name": "hypertension",
+            "cui": "C0020538",
+            "count": 1
+        },
+        {
+            "pref_name": "medical history",
+            "cui": "C0262926",
+            "count": 1
+        },
+        {
+            "pref_name": "cough",
+            "cui": "C0010200",
+            "count": 1
+        },
+        {
+            "pref_name": "white coat hypertension",
+            "cui": "C0262534",
+            "count": 1
+        },
+        {
+            "pref_name": "clinic",
+            "cui": "C0442592",
+            "count": 2
+        },
+        {
+            "pref_name": "norvasc",
+            "cui": "C0162712",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "hyzaar",
+            "cui": "C0721010",
+            "count": 1
+        },
+        {
+            "pref_name": "feet",
+            "cui": "C0016504",
+            "count": 1
+        },
+        {
+            "pref_name": "heat",
+            "cui": "C0018837",
+            "count": 1
+        },
+        {
+            "pref_name": "waves",
+            "cui": "C0678544",
+            "count": 1
+        },
+        {
+            "pref_name": "hands",
+            "cui": "C0018563",
+            "count": 1
+        },
+        {
+            "pref_name": "lipitor",
+            "cui": "C0593906",
+            "count": 1
+        },
+        {
+            "pref_name": "hypercholesterolemia",
+            "cui": "C0020443",
+            "count": 1
+        },
+        {
+            "pref_name": "burning",
+            "cui": "C0006434",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "lipitor",
+            "cui": "C0593906",
+            "count": 1
+        },
+        {
+            "pref_name": "medication",
+            "cui": "C0013227",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "female",
+            "cui": "C0015780",
+            "count": 1
+        },
+        {
+            "pref_name": "medical history",
+            "cui": "C0262926",
+            "count": 1
+        },
+        {
+            "pref_name": "abdominal pain",
+            "cui": "C0000737",
+            "count": 1
+        },
+        {
+            "pref_name": "laparoscopic cholecystectomy",
+            "cui": "C0162522",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "operation",
+            "cui": "C0543467",
+            "count": 2
+        },
+        {
+            "pref_name": "laparoscopic cholecystectomy",
+            "cui": "C0162522",
+            "count": 1
+        },
+        {
+            "pref_name": "abdominal pain",
+            "cui": "C0000737",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "pilonidal cyst",
+            "cui": "C0031925",
+            "count": 1
+        },
+        {
+            "pref_name": "pain",
+            "cui": "C0030193",
+            "count": 1
+        },
+        {
+            "pref_name": "medical history",
+            "cui": "C0262926",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "mild pain",
+            "cui": "C0278138",
+            "count": 1
+        },
+        {
+            "pref_name": "swelling",
+            "cui": "C0013604",
+            "count": 1
+        },
+        {
+            "pref_name": "bowel",
+            "cui": "C0021853",
+            "count": 1
+        },
+        {
+            "pref_name": "walk",
+            "cui": "C0080331",
+            "count": 1
+        },
+        {
+            "pref_name": "fevers",
+            "cui": "C0015967",
+            "count": 1
+        },
+        {
+            "pref_name": "couple",
+            "cui": "C0010222",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "surgery",
+            "cui": "C0543467",
+            "count": 1
+        },
+        {
+            "pref_name": "female",
+            "cui": "C0015780",
+            "count": 1
+        },
+        {
+            "pref_name": "afebrile",
+            "cui": "C0277797",
+            "count": 1
+        },
+        {
+            "pref_name": "fluctuance",
+            "cui": "C0949036",
+            "count": 1
+        },
+        {
+            "pref_name": "erythema",
+            "cui": "C0041834",
+            "count": 1
+        },
+        {
+            "pref_name": "drainage",
+            "cui": "C0012621",
+            "count": 1
+        },
+        {
+            "pref_name": "scars",
+            "cui": "C0008767",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "pilonidal cyst",
+            "cui": "C0031925",
+            "count": 1
+        },
+        {
+            "pref_name": "clinic",
+            "cui": "C0442592",
+            "count": 1
+        },
+        {
+            "pref_name": "infection",
+            "cui": "C0021311",
+            "count": 1
+        },
+        {
+            "pref_name": "active",
+            "cui": "C0718247",
+            "count": 1
+        },
+        {
+            "pref_name": "worse",
+            "cui": "C1279889",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "epigastric",
+            "cui": "C0521440",
+            "count": 1
+        },
+        {
+            "pref_name": "q waves",
+            "cui": "C0429089",
+            "count": 1
+        },
+        {
+            "pref_name": "exercise",
+            "cui": "C0015259",
+            "count": 1
+        },
+        {
+            "pref_name": "pain",
+            "cui": "C0030193",
+            "count": 3
+        },
+        {
+            "pref_name": "clinic",
+            "cui": "C0442592",
+            "count": 1
+        },
+        {
+            "pref_name": "ekg",
+            "cui": "C0013798",
+            "count": 1
+        },
+        {
+            "pref_name": "treadmill",
+            "cui": "C0184069",
+            "count": 1
+        },
+        {
+            "pref_name": "chest",
+            "cui": "C0817096",
+            "count": 1
+        },
+        {
+            "pref_name": "nitroglycerin",
+            "cui": "C0017887",
+            "count": 1
+        },
+        {
+            "pref_name": "claudication",
+            "cui": "C0311395",
+            "count": 1
+        },
+        {
+            "pref_name": "leads",
+            "cui": "C0181586",
+            "count": 1
+        },
+        {
+            "pref_name": "st depression",
+            "cui": "C0520887",
+            "count": 1
+        },
+        {
+            "pref_name": "leg",
+            "cui": "C0039866",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "dermatitis",
+            "cui": "C0011603",
+            "count": 1
+        },
+        {
+            "pref_name": "smoking",
+            "cui": "C0037369",
+            "count": 1
+        },
+        {
+            "pref_name": "pack",
+            "cui": "C0441122",
+            "count": 1
+        }
+    ],
+    [
+        {
+            "pref_name": "skin cancer",
+            "cui": "C0007114",
+            "count": 1
+        },
+        {
+            "pref_name": "weight",
+            "cui": "C1305866",
+            "count": 1
+        },
+        {
+            "pref_name": "radiation",
+            "cui": "C0851346",
+            "count": 2
+        },
+        {
+            "pref_name": "bowel",
+            "cui": "C0021853",
+            "count": 1
+        },
+        {
+            "pref_name": "legs",
+            "cui": "C1140621",
+            "count": 1
+        },
+        {
+            "pref_name": "bladder",
+            "cui": "C0005682",
+            "count": 1
+        },
+        {
+            "pref_name": "night sweats",
+            "cui": "C0028081",
+            "count": 1
+        },
+        {
+            "pref_name": "exercise",
+            "cui": "C0015259",
+            "count": 1
+        },
+        {
+            "pref_name": "fevers",
+            "cui": "C0015967",
+            "count": 1
+        },
+        {
+            "pref_name": "low back pain",
+            "cui": "C0024031",
+            "count": 1
+        },
+        {
+            "pref_name": "treatment",
+            "cui": "C0087111",
+            "count": 1
+        }
+    ]
+]
