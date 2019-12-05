@@ -1,3 +1,6 @@
+used to process some of the ASD files
+Vincent Nguyen
+
 # UMLS Tagger
 
 The **umls_tagger** repo contains code that extracts UMLS (unified medical language system) terms from English text and assigns mapped CUI (concept unique identifier) codes.
